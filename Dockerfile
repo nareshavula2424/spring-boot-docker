@@ -1,4 +1,4 @@
-FROM open-jdk:17-jdk
+FROM openjdk:17-jdk
 
 MAINTAINER "naresh.avula@gmail.com"
 
